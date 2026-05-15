@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#a29bfe" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="LeerLab Kids" />
+    <meta name="description" content="LeerLab Kids — speelse leerapp voor groep 1 t/m 8. Rekenen, taal, wereldoriëntatie en meer. Inclusief, AVG-conform, zonder advertenties." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/opendyslexic@5/index.css" />
+    <style>
+      html{-webkit-text-size-adjust:100%;text-size-adjust:100%;}
+      body{-webkit-font-smoothing:antialiased;}
+      .skip-link{position:absolute;left:-9999px;top:4px;z-index:99999;background:#6c5ce7;color:#fff;padding:8px 16px;border-radius:8px;font-family:sans-serif;text-decoration:none}
+      .skip-link:focus{left:4px}
+    </style>
+    <title>LeerLab Kids</title>
+    <script type="module" crossorigin src="/assets/index-BkKN74KP.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/react-OskAq2oX.js">
+    <link rel="modulepreload" crossorigin href="/assets/supabase-BiHzSKx7.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-BFCQ-Ni4.css">
+  <script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
+  <body>
+    <a href="#main-content" class="skip-link">Ga naar inhoud</a>
+    <div id="root"></div>
+  </body>
+</html>
